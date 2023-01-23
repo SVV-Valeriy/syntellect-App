@@ -1,0 +1,14 @@
+.input {
+    text-decoration: none;
+    width: 500px;
+    height: 46px;
+    margin: 0 10px 0 0;
+    padding-left: 10px;
+    font-size: medium;
+    border: none;
+    border-bottom: 1px solid white;
+    transition: 500ms all ease-in;
+}
+.input:focus {
+    border-bottom: 1px solid #77acfc;
+}

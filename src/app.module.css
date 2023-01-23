@@ -1,0 +1,13 @@
+.container {
+    margin: auto;
+    width: 800px;
+}
+.controlAuto {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h2 {
+    margin-top: 30px;
+}
